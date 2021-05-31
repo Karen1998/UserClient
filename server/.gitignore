@@ -1,0 +1,9 @@
+# Directories
+
+/database/
+/doc/
+/node_modules/
+/.vscode/
+
+# Files
+requests.rest 

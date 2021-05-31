@@ -1,0 +1,6 @@
+{
+	"port": 8000,
+	"mongoUri": "mongodb://127.0.0.1/rest_client",
+	"secret_token": "secret_token",
+	"exp": "48"
+}
